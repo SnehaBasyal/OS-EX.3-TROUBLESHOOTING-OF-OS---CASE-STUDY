@@ -78,8 +78,5 @@ As a last resort, you may need to reinstall the operating system. Make sure to b
 
 ![OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY](three14.png)
 
-### STEP 16-Seek Help:
-If you can't resolve the issue on your own, consider seeking help from online forums, tech support, or a professional technician.
-
 ## RESULT:
 The Troubleshooting for the Operating System has been successfully done.
